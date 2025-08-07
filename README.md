@@ -11,7 +11,7 @@ For every audit, I publish:
 
 ## 🔗 GitBook (Educational Articles)
 
-→ [Visit the GitBook site](https://your-gitbook-link.gitbook.io) *(replace this with the actual link)*
+→ [Visit the GitBook site](https://github.com/siyovush-hamidov/Smart-Contract-Audits)
 
 ---
 
