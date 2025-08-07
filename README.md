@@ -12,6 +12,6 @@ For every audit, I publish a **learning-focused article** on GitBook that reflec
 
 | #  | Protocol       | Dates                   | Formal Report                                            | Article (GitBook)                                      | Tags                              |
 |----|----------------|-------------------------|----------------------------------------------------------|--------------------------------------------------------|-----------------------------------|
-| 1  | MaldaActive    | 24 Jul – 14 Aug 2025    |                                                          |                                                        |                                   |
+| 1  | Malda   | 24 Jul – 14 Aug 2025    |                                                          |                                                        |                                   |
 
 > All reports are located in the [reports/](./reports) directory.
